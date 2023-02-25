@@ -1,10 +1,9 @@
 a = int(input())
 for i in range(a):
-    b = input()
-    s = list(b)
-    sum = 0
+    b = list(input())
     c = 1
-    for i in s:
+    sum = 0
+    for i in b:
         if i == 'O':
             sum += c
             c += 1
