@@ -1,6 +1,6 @@
 # [level 0] flag에 따라 다른 값 반환하기 - 181933 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181933?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181933) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 09월 21일 16:19:40
+2025년 09월 21일 16:20:17
 
 ### 문제 설명
 
